@@ -1,0 +1,20 @@
+li{
+    text-align:start;
+}
+
+header{
+    font-size : 42px ;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+    color:mediumturquoise
+    
+}
+
+a{
+    color:burlywood
+}
+
+img{
+    padding:10%
+}
